@@ -1,21 +1,20 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Lixuan | 何立轩
+position: Undergraduate Student
+affiliation: Tsinghua University
+email: helx23@mails.tsinghua.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Reinforcement Learning, Natural Language Processing, Representation Learning, Computer Vision
+description: A simple and elegant personal homepage for Lixuan at Tsinghua University.
+canonical: https://tsyj-he.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=yMq5pA8AAAAJ
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
+github_link: https://github.com/TSYJ-He
 twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
@@ -36,9 +35,6 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
