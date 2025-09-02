@@ -5,7 +5,7 @@ main:
     conference: "ICLR ’25 Workshop on Embodied AI, oral presentation."
     pdf: https://openreview.net/pdf?id=24LUDaoztW
     arxiv: https://openreview.net/forum?id=24LUDaoztW
-    image: ./assets/img/navigate_sim2real.png  # <-- 添加这一行
+    image: ./assets/img/navigatesim2real.png  # <-- 添加这一行
 
   - title: "Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System"
     authors: "<strong>Lixuan He</strong>, Haoyu Dong, Yangcheng Yu, Zhenxing Chen, Jie Feng, Yong Li"
