@@ -53,6 +53,7 @@ Currently I am working on theories and scalable methods for developing reasoning
 
 ## Research Interests
 
+- Natural Language Proceeding, Reinforcement Learning, Computer Vision
 - Integrating unstructured visual, textual, and graph data for real-world reasoning.
 - Theories and scalable methods for developing reasoning intelligence.
 - Learning models in abstract spaces and AI representation of the world.
