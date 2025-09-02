@@ -1,46 +1,37 @@
 # Basic Information 
-title: Lixuan | 何立轩
+title: Lixuan He | 何立轩
 position: Undergraduate Student
 affiliation: Tsinghua University
 email: helx23@mails.tsinghua.edu.cn
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Reinforcement Learning, Natural Language Processing, Representation Learning, Computer Vision
-description: A simple and elegant personal homepage for Lixuan at Tsinghua University.
-canonical: https://tsyj-he.github.io/
+keywords: Lixuan He, Reinforcement Learning, Natural Language Processing, Representation Learning, Computer Vision
+description: Lixuan He's personal homepage at Tsinghua University.
+canonical: https://TSYJ-He.github.io/
 
 # Links 
-# If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=yMq5pA8AAAAJ
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/TSYJ-He
-twitter: https://twitter.com/
+twitter: https://x.com/lixuan_thu?s=21 
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+# Images
+avatar: ./assets/img/avatar.png # 你的头像图片路径
+favicon: ./assets/img/favicon.png # 浏览器标签页的小图标
+favicon_dark: ./assets/img/favicon-dark.png # 暗黑模式下的小图标
 
 # Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
 
 # Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+# 设置为 false 来禁用暗黑模式，以匹配 knightnemo 的风格
+auto_dark_mode: false
 
 # Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Serif" # 你可以保持 "Serif" 或改为 "Sans Serif"
 
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+# Jekyll 配置
 remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock
