@@ -1,9 +1,4 @@
-- 
-
-- ---
-  layout: homepage
-  ---
-
+layout: homepage
   ## About Me
 
   I am dedicated to formulating novel, valuable scientific questions, stepping outside my comfort zone, and independently completing research projects. My previous work focuses on addressing the challenge of integrating unstructured visual, textual, and graph data for real-world reasoning. Currently I am working on theories and scalable methods for developing reasoning intelligence. I am also interested in learning models in abstract spaces, investigating how AI represents the world and I aim to uncover an intelligent abstraction of space.
