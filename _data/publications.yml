@@ -14,11 +14,10 @@ main:
     arxiv: https://arxiv.org/abs/2506.19433
     code: https://github.com/TSYJ-He/Mem4Nav_VLN
 
-   - title:AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal Imitation-Exploration Balance}.
-      authors: "<strong>Lixuan He</strong>, Jie Feng, Yong Li"
-          conference_short: "AAAI"
+  - title: "AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal Imitation-Exploration Balance"
+    authors: "<strong>Lixuan He</strong>, Jie Feng, Yong Li"
+    conference_short: "AAAI"
     conference: "Submitted to AAAI'26."
-        pdf: https://arxiv.org/pdf/2508.06944
-        arxiv: https://arxiv.org/abs/2508.06944
-        code: https://github.com/TSYJ-He/AMFT
-  
+    pdf: https://arxiv.org/pdf/2508.06944
+    arxiv: https://arxiv.org/abs/2508.06944
+    code: https://github.com/TSYJ-He/AMFT
