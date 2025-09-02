@@ -1,0 +1,15 @@
+main:
+  - title: "AutoEnvForge"
+    image: ./assets/img/autoenvforge.png
+    description: "A robust one-click tool that automatically detects and sets up development environments for any GitHub repository."
+    code: https://github.com/TSYJ-He/AutoEnvForge
+
+  - title: "RepoInsightMiner"
+    image: ./assets/img/repoinsightminer.png
+    description: "An AI-powered analyzer using graph neural networks that mines GitHub repo histories for deep insights, such as predicting future bugs from commit patterns, identifying code smells in architecture, and visualizing contributor dynamics."
+    code: https://github.com/TSYJ-He/RepoInsightMiner
+
+  - title: "Spatial-Aware Linear Attention for Efficient Autoregressive Image Generation"
+    image: ./assets/img/Linear.png
+    description: "Sequence-based Image Modeling: Decompose a two-dimensional image into a sequence of discrete patch tokens and train an autoregressive transformer to predict each token conditioned on its predecessors, unifying visual synthesis with standard next-token language modeling."
+    pdf: https://cloud.tsinghua.edu.cn/lib/efdb46fe-2a86-425d-bb35-47a4dbb3043a/file/Findings_LinearGen.pdf
