@@ -4,26 +4,28 @@ layout: homepage
 
 ## About Me
 
-I’m currently an undergraduate student in the Department of Electronic Engineering, Tsinghua University. Since the summer of 2024, I have had the privilege of being supervised by several esteemed professors: Prof. Bowen Zhou  and Prof. Ning Ding at the Shanghai AI Lab; Prof. Alex Lamb at the College AI; Prof. Yu Wang at the Nanoscale Integrated Circuits and System Lab; and Prof. Yong Li at the Future Intelligence Lab. I am dedicated to formulating novel, valuable scientific questions, stepping outside my comfort zone, and independently completing research projects. My previous work focuses on addressing the challenge of integrating unstructured visual,
-textual, and graph data for real-world reasoning. Currently I am working on theories and scalable methods for developing reasoning intelligence. I am also interested in learning models in abstract spaces, investigating how AI represents the world.
+
+I’m currently an undergraduate student in the Department of Electronic Engineering, Tsinghua University. Since the summer of 2024, I have had the privilege of being supervised by several esteemed professors: Prof. <a href="https://c3i.ee.tsinghua.edu.cn/en/author/bowen-zhou/">Bowen Zhou</a>  and Prof. <a href="https://www.stingning.cn/">Ning Ding</a> at the Shanghai AI Lab; Prof. <a href="https://collegeai.tsinghua.edu.cn/en/People/Full_time_PI/Alex_Lamb.htm">Alex Lamb</a> at the College AI; Prof. <a href="https://web.ee.tsinghua.edu.cn/wangyu/en/index.htm">Yu Wang</a> at the Nanoscale Integrated Circuits and System Lab; and Prof. <a href="https://fi.ee.tsinghua.edu.cn/people/#faculty">Yong Li</a> at the Future Intelligence Lab.
+
+Currently I am working on theories and scalable methods for developing reasoning intelligence. I am also interested in learning models in abstract spaces, investigating how AI represents the world.
 
 
 <p style="margin-bottom: 0;">I welcome any collaboration or discussion. Please feel free to reach out!</p>
 
 <details style="margin-top: 0;">
-<summary style="margin-bottom: 0;">Some picture options: <em>(I'll try to keep this up to date)</em> </summary>
+<summary style="margin-bottom: 0;">Some picture options: <em></em> </summary>
 <link rel="stylesheet" href="./assets/css/simple-slider.css" style="margin-top: 0;" />
 <div class="simple-gallery" style="margin-top: 0;"> 
-  <text style="text-align: left; margin-top: 0;">Inspired by Pieter Abbeel's homepage. Photos are taken within the past year.</text> 
+  <text style="text-align: left; margin-top: 0;">Inspired by Siqiao Huang's homepage. Photos are taken within the past year.</text> 
   <div style="height: 0.5em;"></div> 
   <div class="gallery-container"> 
     <div class="gallery-item active"> 
       <img class="gallery-img" src="/assets/img/photo1.jpg" /> 
-      <div class="gallery-caption">Example photo 1</div> 
+      <div class="gallery-caption">An Awesome Volley Ball Match🏐</div> 
     </div> 
     <div class="gallery-item"> 
       <img class="gallery-img" src="/assets/img/photo2.jpg" /> 
-      <div class="gallery-caption">Example photo 2</div> 
+      <div class="gallery-caption">With best friends😋</div> 
     </div> 
     <div class="gallery-side-nav"> 
       <button class="gallery-btn prev" aria-label="Previous image"> 
