@@ -1,22 +1,24 @@
 main:
+  - title: "Learning to Navigate in Open Urban Environments Using a Simple Sim2Real Strategy"
+    authors: "<strong>Lixuan He</strong>, Haoyu Dong, Yangcheng Yu, Zhenxing Chen, Jie Feng, Xin Wang, Yong Li"
+    conference_short: "ICLR Workshop"
+    conference: "ICLR ’25 Workshop on Embodied AI, oral presentation."
+    pdf: https://openreview.net/pdf?id=24LUDaoztW
+    arxiv: https://openreview.net/forum?id=24LUDaoztW
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System"
+    authors: "<strong>Lixuan He</strong>, Haoyu Dong, Yangcheng Yu, Zhenxing Chen, Jie Feng, Yong Li"
+    conference_short: "NeurIPS"
+    conference: "Submitted to NeurIPS ’25, Avg. score of 5."
+    pdf: https://arxiv.org/pdf/2506.19433
+    arxiv: https://arxiv.org/abs/2506.19433
+    code: https://github.com/TSYJ-He/Mem4Nav_VLN
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+   - title:AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal Imitation-Exploration Balance}.
+      authors: "<strong>Lixuan He</strong>, Jie Feng, Yong Li"
+          conference_short: "AAAI"
+    conference: "Submitted to AAAI'26."
+        pdf: https://arxiv.org/pdf/2508.06944
+        arxiv: https://arxiv.org/abs/2508.06944
+        code: https://github.com/TSYJ-He/AMFT
+  
