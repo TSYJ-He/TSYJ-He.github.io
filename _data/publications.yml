@@ -5,6 +5,7 @@ main:
     conference: "ICLR ’25 Workshop on Embodied AI, oral presentation."
     pdf: https://openreview.net/pdf?id=24LUDaoztW
     arxiv: https://openreview.net/forum?id=24LUDaoztW
+    image: ./assets/img/navigate_sim2real.png  # <-- 添加这一行
 
   - title: "Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System"
     authors: "<strong>Lixuan He</strong>, Haoyu Dong, Yangcheng Yu, Zhenxing Chen, Jie Feng, Yong Li"
@@ -13,6 +14,7 @@ main:
     pdf: https://arxiv.org/pdf/2506.19433
     arxiv: https://arxiv.org/abs/2506.19433
     code: https://github.com/TSYJ-He/Mem4Nav_VLN
+    image: ./assets/img/mem4nav.png            # <-- 添加这一行
 
   - title: "AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal Imitation-Exploration Balance"
     authors: "<strong>Lixuan He</strong>, Jie Feng, Yong Li"
@@ -21,3 +23,4 @@ main:
     pdf: https://arxiv.org/pdf/2508.06944
     arxiv: https://arxiv.org/abs/2508.06944
     code: https://github.com/TSYJ-He/AMFT
+    image: ./assets/img/amft.png                # <-- 添加这一行
