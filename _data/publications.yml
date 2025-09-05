@@ -1,37 +1,35 @@
 main:
 - title: "Towards a Unified View of Large Language Model Post-Training"
-    authors: "Xingtai Lv, Yuxin Zuo, Youbang Sun, Hongyi Liu, Yuntian Wei, Zhekai Chen, <strong>Lixuan He</strong>, Xuekai Zhu, Kaiyan Zhang, Bingning Wang, Ning Ding, Bowen Zhou"
-    conference_short: "Preprint"
-    conference: "ArXiv preprint."
-    pdf: https://arxiv.org/pdf/2509.04419
-    code: https://github.com/TsinghuaC3I/Unify-Post-Training
-    image: ./assets/img/UPGE.png 
-    arxiv: https://arxiv.org/abs/2509.04419
+  authors: "Xingtai Lv, Yuxin Zuo, Youbang Sun, Hongyi Liu, Yuntian Wei, Zhekai Chen, <strong>Lixuan He</strong>, Xuekai Zhu, Kaiyan Zhang, Bingning Wang, Ning Ding, Bowen Zhou"
+  conference_short: "Preprint"
+  conference: "ArXiv preprint."
+  pdf: https://arxiv.org/pdf/2509.04419
+  code: https://github.com/TsinghuaC3I/Unify-Post-Training
+  image: ./assets/img/UPGE.png
+  arxiv: https://arxiv.org/abs/2509.04419
 
-  - title: "AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal Imitation-Exploration Balance"
-    authors: "<strong>Lixuan He</strong>, Jie Feng, Yong Li"
-    conference_short: "AAAI"
-    conference: "Submitted to AAAI'26."
-    pdf: https://arxiv.org/pdf/2508.06944
-    arxiv: https://arxiv.org/abs/2508.06944
-    code: https://github.com/TSYJ-He/AMFT
-    image: ./assets/img/amft.png                # <-- 添加这一行
+- title: "AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal Imitation-Exploration Balance"
+  authors: "<strong>Lixuan He</strong>, Jie Feng, Yong Li"
+  conference_short: "AAAI"
+  conference: "Submitted to AAAI'26."
+  pdf: https://arxiv.org/pdf/2508.06944
+  arxiv: https://arxiv.org/abs/2508.06944
+  code: https://github.com/TSYJ-He/AMFT
+  image: ./assets/img/amft.png
 
-  - title: "Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System"
-    authors: "<strong>Lixuan He</strong>, Haoyu Dong, Yangcheng Yu, Zhenxing Chen, Jie Feng, Yong Li"
-    conference_short: "NeurIPS"
-    conference: "Submitted to NeurIPS ’25, Avg. score of 5."
-    pdf: https://arxiv.org/pdf/2506.19433
-    arxiv: https://arxiv.org/abs/2506.19433
-    code: https://github.com/TSYJ-He/Mem4Nav_VLN
-    image: ./assets/img/mem4nav.png            # <-- 添加这一行
+- title: "Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System"
+  authors: "<strong>Lixuan He</strong>, Haoyu Dong, Yangcheng Yu, Zhenxing Chen, Jie Feng, Yong Li"
+  conference_short: "NeurIPS"
+  conference: "Submitted to NeurIPS ’25, Avg. score of 5."
+  pdf: https://arxiv.org/pdf/2506.19433
+  arxiv: https://arxiv.org/abs/2506.19433
+  code: https://github.com/TSYJ-He/Mem4Nav_VLN
+  image: ./assets/img/mem4nav.png
 
-  - title: "Learning to Navigate in Open Urban Environments Using a Simple Sim2Real Strategy"
-    authors: "<strong>Lixuan He</strong>, Haoyu Dong, Yangcheng Yu, Zhenxing Chen, Jie Feng, Xin Wang, Yong Li"
-    conference_short: "ICLR Workshop"
-    conference: "ICLR ’25 Workshop on Embodied AI, oral presentation."
-    pdf: https://openreview.net/pdf?id=24LUDaoztW
-    arxiv: https://openreview.net/forum?id=24LUDaoztW
-    image: ./assets/img/navigatesim2real.png  # <-- 添加这一行
-
-
+- title: "Learning to Navigate in Open Urban Environments Using a Simple Sim2Real Strategy"
+  authors: "<strong>Lixuan He</strong>, Haoyu Dong, Yangcheng Yu, Zhenxing Chen, Jie Feng, Xin Wang, Yong Li"
+  conference_short: "ICLR Workshop"
+  conference: "ICLR ’25 Workshop on Embodied AI, oral presentation."
+  pdf: https://openreview.net/pdf?id=24LUDaoztW
+  arxiv: https://openreview.net/forum?id=24LUDaoztW
+  image: ./assets/img/navigatesim2real.png
